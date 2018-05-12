@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '38162'
     url: http://www.gutenberg.org/2009/agents/38162
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36244#Latitude-19-degreeEighteen-Hundred-and-Twenty
 gutenberg_issued: '2011-05-28'
 gutenberg_type: Text
 identifiers:
