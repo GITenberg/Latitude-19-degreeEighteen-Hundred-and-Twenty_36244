@@ -1,0 +1,41 @@
+_repo: Latitude-19-degreeEighteen-Hundred-and-Twenty_36244
+_version: 0.1.0
+alternative_title: "Latitude Nineteen Degrees\r\nA Romance of the West Indies in the\
+  \ Year of Our Lord 1820"
+contributor:
+  illustrator:
+    agent_name: Gibbs, George
+    alias: Gibbs, George Fort
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '4037'
+    url: http://www.gutenberg.org/2009/agents/4037
+    wikipedia: https://en.wikipedia.org/wiki/George_Fort_Gibbs
+covers:
+- cover_type: archival
+  image_path: 36244-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crowninshield, Schuyler, Mrs.
+    aliases:
+    - Crowninshield, Mary Bradford
+    - Crowninshield, Mrs. Schuyler
+    deathdate: 1913
+    gutenberg_agent_id: '38162'
+    url: http://www.gutenberg.org/2009/agents/38162
+description: ''
+gutenberg_issued: '2011-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36244'
+  lccn: '98001489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West Indies -- Fiction'
+- !lcc 'PS'
+title: "Latitude 19°\r\nA Romance of the West Indies in the Year of Our Lord Eighteen\
+  \ Hundred and Twenty"
+url: http://www.gutenberg.org/ebooks/36244
